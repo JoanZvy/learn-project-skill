@@ -1,0 +1,7 @@
+interface:
+  display_name: "learn-project-skill"
+  short_description: "按真实执行链路设计大纲，完整介绍主流程函数并逐章撰写与验收"
+  default_prompt: "使用 $learn-project-skill 阅读这个项目，先提交完整大纲供我确认，再按确认大纲逐章撰写与验收。"
+
+policy:
+  allow_implicit_invocation: true
